@@ -1,0 +1,3 @@
+[submodule "Trajectographie_FUEGO"]
+	path = Trajectographie_FUEGO
+	url = git@github.com:Andarvey/Trajectographie_FUEGO.git
